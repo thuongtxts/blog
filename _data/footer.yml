@@ -1,0 +1,12 @@
+- name:
+  link: https://www.facebook.com/groups/hocchudong
+  new_window: true
+  social_icon: Facebook
+- name:
+  email: tcvn1985@gmail.com
+  social_icon: Email
+  new_window: true
+- name: 
+  link: /feed.xml
+  social_icon: RSS
+  new_window: false

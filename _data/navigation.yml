@@ -1,0 +1,13 @@
+- name: Blog
+  link: /
+- name: Videos
+  link: /videos/
+- name: FAQ
+  link: /faq/
+- name: Home
+  link: https://hocchudong.com
+  new_window: true
+- name: Contact
+  link: #
+- name: Archive
+  link: #
